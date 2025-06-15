@@ -57,3 +57,5 @@ Tayyab
 BSIT – PUCIT
 iHub Project Submission
 Lahore, Pakistan
+
+You can also play the video from here https://drive.google.com/file/d/126YlgQZbi86HiO8QdSGwBhqnTZfNaxaj/view?usp=sharing
