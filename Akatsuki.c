@@ -115,7 +115,7 @@ void easyquiz()
             count++;
         }
         else
-            printf("\033[1;31mWrong Answer , Let's move on Next\n\n\033[0m");
+            printf("\033[1;31mWrong Answer , Let's  move on Next\n\n\033[0m");
     }
     printf("\033[1;36mYour Quiz is Over! Thanks!!\nYour Score is %d/5\n\033[0m", count);
 }
